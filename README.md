@@ -1,2 +1,2 @@
-# BBDD
-Bases de Datos(2020): MySQL y JDBC
+# DataBase
+Proyectos 2020: MySQL y JDBC
